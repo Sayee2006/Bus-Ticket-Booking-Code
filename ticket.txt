@@ -1,0 +1,6 @@
+=== Bus Tickets Details === 
+RouteMumbai -> Pune 
+Price Per Ticket: 300 
+Number of Tickets : 2 
+Total Amount: 600 
+Ticket Booked Successfully.! 
